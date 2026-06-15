@@ -1,0 +1,9 @@
+{
+  "name": "Character PVP",
+  "short_name": "CharacterPVP",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060707",
+  "theme_color": "#08110c",
+  "icons": []
+}
